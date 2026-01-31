@@ -20,8 +20,9 @@ MartixOS is created with the goal to be:
 ## Installation / Testing
 
 ### 1. Testing in a Virtual Machine
-1. Download the ISO file
-2. Create a VM with at least 2GB RAM and 20GB disk  
-3. Boot the ISO
-4. Search the Application "Install MartixOS" and you'll see an installer, called archinstall
-5. configure the system in archinstall and then install the system  
+1. Download the 7z file
+2. Uncompress the file
+3. Burn the ISO file into a flash drive, using Balena Etcher
+4. Boot the ISO
+5. Search the Application "Install MartixOS" and you'll see an installer, called archinstall
+6. configure the system in archinstall and then install the system  
