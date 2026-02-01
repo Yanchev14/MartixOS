@@ -1,6 +1,6 @@
 # MartixOS
 
-**Version:** 0.1 (Beta)  
+**Version:** 0.2 (Beta)  
 **License:** GPLv3  
 **Author:** Martin Yanchev  
 **Purpose:** Minimal and flexible Linux distribution, with a focus on Wayland and modern tools.
