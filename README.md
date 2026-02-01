@@ -34,14 +34,33 @@ MartixOS is created with the goal to be:
 
 ## Changelog
 
-## 1. MartixOS 0.2
+### 1. MartixOS 0.2
 1. Has linux-zen kernel
 2. Has calamares installer
 
-## 2. MartixOS 0.1
+### 2. MartixOS 0.1
 1. Has linux kernel
 2. Has Archinstall installer
 3. Has KDE plasma
 4. Has flatpak
 5. Has Steam
 6. Has os-release
+
+## Build Guide
+
+### 1. Requirements
+1. PC with Arch Linux or Arch-based distro
+2. installed archiso on your machine
+
+### 2. Tutorial
+1. run `sudo pacman -S archiso`
+2. Enter in your browser
+3. type https://github.com/Yanchev14/MartixOS
+4. in this site click Releases
+5. in Releases click on the newest version
+6. Install MartixOS.zip, which is the source code
+7. After is installed, uncompress the folder, then enter in the folder MartixOS
+8. then in terminal enter `sudo pacman -S unzip`, after that, run `unzip MartixOS.zip`
+9. run `cd MartixOS`, create directory for ISO file `mkdir MartixOS-out`
+10. run `sudo mkarchiso -o ~/Документи/MartixOS-out -v ~/Документи/MartixOS`
+
