@@ -11,9 +11,11 @@
 
 MartixOS is created with the goal to be:
 
-- It's minimal and it comes with KDE Plasma
+- It's minimal and it comes with KDE Plasma and Steam
 - Fully Wayland-based for modern display management  
-- Open-source under GPLv3, ensuring freedom and transparency  
+- Open-source under GPLv3, ensuring freedom and transparency
+- If the version is 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8 or 0.9, it's beta version
+- if the version is 1.0, 2.0, 3.0 ..., it's stable version  
 
 ---
 
