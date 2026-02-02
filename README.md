@@ -59,8 +59,7 @@ MartixOS is created with the goal to be:
 4. in this site click Releases
 5. in Releases click on the newest version
 6. Install MartixOS.zip, which is the source code
-7. After is installed, uncompress the folder, then enter in the folder MartixOS
-8. then in terminal enter `sudo pacman -S unzip`, after that, run `unzip MartixOS.zip`
-9. run `cd MartixOS`, create directory for ISO file `mkdir MartixOS-out`
-10. run `sudo mkarchiso -o ~/Документи/MartixOS-out -v ~/Документи/MartixOS`
+7. then in terminal enter `sudo pacman -S unzip`, after that, run `unzip MartixOS.zip`
+8. run `cd MartixOS`, create directory for ISO file `mkdir MartixOS-out`
+9. run `sudo mkarchiso -o ~/Документи/MartixOS-out -v ~/Документи/MartixOS`
 
