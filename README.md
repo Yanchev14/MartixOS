@@ -1,11 +1,9 @@
-# MartixOSArchEdition
+# MartixOS
 
 **Version:** 0.2 (Beta)  
 **License:** GPLv3  
 **Author:** Martin Yanchev  
 **Purpose:** Minimal and flexible Linux distribution, with a focus on Wayland and modern tools.
-
-**ShortName:** MOSAE
 
 ---
 
@@ -13,7 +11,7 @@
 
 MartixOSArchEditition is created with the goal to be:
 
-- For Power Users
+- For Power Users, but later will be suitable for begginers.
 - Fully Wayland-based for modern display management  
 - Open-source under GPLv3, ensuring freedom and transparency
 - If the version is 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8 or 0.9, it's beta version
